@@ -6,6 +6,7 @@
 
 ## <img alt="Bhavesh's Linkedin" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python
 | Project | Code | Tags | Description |
+| --- | --- | --- | --- |
 | `01` | [01-Unziping-Made-Easy]() | * Automation, Python *| [Read Here](#1-unzipping-made-easy)|
 
 ## :page_with_curl: Descriptions -
